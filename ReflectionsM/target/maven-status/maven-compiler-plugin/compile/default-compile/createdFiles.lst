@@ -1,0 +1,15 @@
+com\company\Utils\PrintClassInfo.class
+com\company\ClassInfo.class
+com\company\GetSetField.class
+com\company\TestClasses\TestClass.class
+com\company\ListMethods.class
+com\company\TestClasses\TestInterface.class
+com\company\Utils\ConfigReader.class
+com\company\Utils\CallMethod.class
+com\company\Utils\SetField.class
+com\company\ExecMethPars.class
+com\company\ListFields.class
+com\company\Utils\BuildClass.class
+com\company\ClassFrReflPar.class
+com\company\ClassFromRefl.class
+com\company\ExecuteMethod.class
