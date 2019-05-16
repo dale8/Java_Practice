@@ -8,8 +8,8 @@
 
     <form method="post" action="result">
     <p>add two numbers</p>
-    <input type="text" name="value1">
-    <input type="text" name="value2">
+    <input type="number" max="1073741823" required name="value1">
+    <input type="number" max="1073741823" required name="value2">
     <input type="submit" value="Calculate">
     </form>
 

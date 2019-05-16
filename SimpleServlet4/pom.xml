@@ -67,7 +67,10 @@
                     <artifactId>tomcat7-maven-plugin</artifactId>
                     <version>2.2</version>
                     <configuration>
-                        <url>http://localhost:8888/manager/text</url>
+                        <!-- to run application use:
+                          mvn clean package org.apache.tomcat.maven:tomcat7-maven-plugin:2.2:deploy
+                           if tomcat port isn't standard(8080) add:
+                           -Dmaven.tomcat.url=http://<IP>:<PORT>/manager/text-->
                         <server>TomcatServer</server>
                         <path>/SimpleServlet4</path>
                     </configuration>
