@@ -2,6 +2,7 @@ package com.company;
 
 /*
 * Вернуть лямбду, которая печатает “Hello world!”
+*
 */
 
 import com.company.Utils.Lambdas;
